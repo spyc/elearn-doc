@@ -6,6 +6,7 @@ It is installed by [Composer](https://getcomposer.org/)
 You may refer to the [composer.json](composer.json).
 
 The following list is the PHP Components classifed as **"require"**:
+
 	- [doctrine/dbal](https://packagist.org/packages/doctrine/dbal)
 	- [symfony/http-foundation](https://packagist.org/packages/symfony/http-foundation)
 	- [symfony/http-kernel](https://packagist.org/packages/symfony/http-kernel)
@@ -20,6 +21,7 @@ The following list is the PHP Components classifed as **"require"**:
 	- [nesbot/carbon](https://packagist.org/packages/nesbot/carbon)
 
 The following list is the PHP Components classifed as **"require-dev"**:
+
 	* [phpunit/phpunit](https://packagist.org/packages/phpunit/phpunit)
 	* [symfony/console](https://packagist.org/packages/symfony/console)
 	* [symfony/debug](https://packagist.org/packages/symfony/debug)
