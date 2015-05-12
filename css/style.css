@@ -1,0 +1,34 @@
+@import url("http://fonts.googleapis.com/css?family=Alegreya+Sans:400,300|Oswald:700");
+body, :root {
+	font-size: 18px;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+.brand-green {
+	color: #006F17;
+}
+
+.brand-purple {
+	color: #563D7C;
+}
+
+@media (min-width: 992px) {
+	.navbar .active, .navbar .active a {
+		background-color: #563D7C !important;
+		color: #FFFFFF !important;
+	}
+}
+
+.nav .active, .nav .active a {
+	background-color: #006F17 !important;
+	color: #FFFFFF !important;
+}
+
+a {
+	color: #A50014;
+}
+
+a:hover {
+	font-weight: bold;
+	color: #A50014;
+}
