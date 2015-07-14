@@ -1,4 +1,4 @@
 Elearn Doc
 ============
 
-This is the documentation of elearn service.
+This is the user manual and developer documentation of elearn service.
