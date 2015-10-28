@@ -4,6 +4,7 @@ Developer Guide
 Please read this document and the related part document before contributing.
 
 - [CONTRIBUTING Guide](CONTRIBUTING.md)
+- [Software](software.md)
 
 Documentation First
 -------------------
