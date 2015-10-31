@@ -1,4 +1,7 @@
-Elearn Doc
+Elearn Documentation
 ============
 
-This is the documentation of elearn service.
+This is the user manual and developer documentation of elearn service.
+
+##Table of Content
+- [Stop Service](service/Stop.md)
