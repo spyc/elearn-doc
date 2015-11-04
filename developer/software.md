@@ -18,7 +18,7 @@ List of software installed.
 ##dependency-management
 - [Composer](software/Composer.md)
 - [pip](software/pip.md)
-- [easy_install](software/easy_install.md)
+- [easy install](software/easy-install.md)
 - [npm](software/npm.md)
 
 ##frameworks
