@@ -14,12 +14,13 @@ List of software installed.
 - [Python](software/Python.md)
 - [Java](software/Java.md)
 - [nodejs](software/node.md)
+- [Scala](software/scala.md)
 
 ##dependency-management
 - [Composer](software/Composer.md)
 - [pip](software/pip.md)
-- [easy install](software/easy-install.md)
 - [npm](software/npm.md)
+- [sbt](software/sbt.md)
 
 ##frameworks
 - [Laravel](software/Laravel.md)
