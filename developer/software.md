@@ -14,12 +14,13 @@ List of software installed.
 - [Python](software/Python.md)
 - [Java](software/Java.md)
 - [nodejs](software/node.md)
+- [Scala](software/scala.md)
 
 ##dependency-management
 - [Composer](software/Composer.md)
 - [pip](software/pip.md)
-- [easy_install](software/easy_install.md)
 - [npm](software/npm.md)
+- [sbt](software/sbt.md)
 
 ##frameworks
 - [Laravel](software/Laravel.md)
@@ -36,5 +37,5 @@ List of software installed.
 ##Other
 - [MySQL](software/MySQL.md)
 - [ElasticSearch](software/ElasticSearch.md)
-- [Logstash](software/Logstash.md)
 - [Git](software/Git.md)
+- [Redis](software/redis.md)
