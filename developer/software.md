@@ -39,3 +39,4 @@ List of software installed.
 - [ElasticSearch](software/ElasticSearch.md)
 - [Logstash](software/Logstash.md)
 - [Git](software/Git.md)
+- [Redis](software/redis.md)
