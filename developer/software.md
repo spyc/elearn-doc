@@ -37,6 +37,5 @@ List of software installed.
 ##Other
 - [MySQL](software/MySQL.md)
 - [ElasticSearch](software/ElasticSearch.md)
-- [Logstash](software/Logstash.md)
 - [Git](software/Git.md)
 - [Redis](software/redis.md)
